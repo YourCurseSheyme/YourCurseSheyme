@@ -1,5 +1,5 @@
-# 💫 About Me:
-19-year-old software engineer who can probably make a better flat white than your local barista. When I'm not making coffee, I just code..<br><br>- Professionally: work as an Embedded Systems Developer, customizing Linux systems with Buildroot<br>- System Services: developed a D-Bus agent and a REST API for network management<br>- Distributed Databases: conducted theoretical analysis of technologies like Raft and Accord to prevent replication conflicts<br>- Tooling: developed the MVP of a conflict resolution tool written<br>- API Integration: a parser for the X API and built scripts for Telegram<br>- Deep Dive: building own Linux browser such as Arc<br><br>Actively avoiding life segmentation faults
+# 🖤 About Me:
+19-year-old software engineer who can probably make a better flat white than your local barista. When I'm not making coffee, I just code..<br><br>- Professionally: work as an CV Engineer, Embedded Systems Developer, customizing Linux systems with Buildroot<br>- System Services: developed a D-Bus agent and a REST API for network management<br>- Distributed Databases: conducted theoretical analysis of technologies like Raft and Accord to prevent replication conflicts<br>- Tooling: developed the MVP of a conflict resolution tool written<br>- API Integration: a parser for the X API and built scripts for Telegram<br>- Deep Dive: building own Linux browser such as Arc<br><br>Actively avoiding life segmentation faults
 
 
 ## 🌐 Socials:
